@@ -1,0 +1,28 @@
+{
+  "name": "mesaj-engelleyici-bot",
+  "version": "1.0.0",
+  "description": "Kötü sözleri (+18 reklamlar, küfür gibi) engelleyen bir bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardasoyturk/mesaj-engelleyici-bot.git"
+  },
+  "keywords": [
+    "+18",
+    "küfür engelleme",
+    "küfür",
+    "reklam"
+  ],
+  "author": "ardasoyturk (Arda Soytürk)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ardasoyturk/mesaj-engelleyici-bot/issues"
+  },
+  "homepage": "https://github.com/ardasoyturk/mesaj-engelleyici-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
